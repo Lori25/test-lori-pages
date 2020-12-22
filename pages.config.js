@@ -51,5 +51,6 @@ module.exports = {
       image: 'assets/images/**',
       font: 'assets/fonts/**'
     }
-  }
+  },
+  gitBranch: 'gh-pages'
 };
